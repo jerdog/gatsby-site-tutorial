@@ -2,6 +2,10 @@
 
 [![CircleCI](https://circleci.com/gh/jerdog/gatsby-site-tutorial.svg?style=svg)](https://circleci.com/gh/jerdog/gatsby-site-tutorial/tree/master) 
 
+[![CircleCI](https://circleci.com/gh/jerdog/gatsby-site-tutorial.svg?style=shield)](https://circleci.com/gh/jerdog/gatsby-site-tutorial/tree/master) 
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
